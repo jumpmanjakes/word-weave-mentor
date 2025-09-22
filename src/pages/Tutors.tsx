@@ -1,12 +1,13 @@
 import mariaImage from "@/assets/tutor-maria.jpg";
 import davidImage from "@/assets/tutor-david.jpg";
 import sarahImage from "@/assets/tutor-sarah.jpg";
+import notFoundImage from "@/assets/image-not-found.jpg";
 
 const Tutors = () => {
   const tutors = [
     {
       name: "Maria Rodriguez",
-      image: mariaImage,
+      image: notFoundImage,
       languages: ["Spanish", "English"],
       specialties: ["Business Spanish", "Conversational Practice"],
       experience: "5+ years",
