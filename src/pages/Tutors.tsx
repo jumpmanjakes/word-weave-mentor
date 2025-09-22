@@ -6,21 +6,21 @@ import notFoundImage from "@/assets/image-not-found.jpg";
 const Tutors = () => {
   const tutors = [
     {
-      name: "Maria Rodriguez",
+      name: "insert name",
       image: notFoundImage,
       languages: ["Spanish", "English"],
       experience: "Senior Student",
       description: "Hi! I'm a senior who loves helping fellow students with Spanish. I've been part of our World Language Mentoring club for 3 years and enjoy making language learning fun and accessible for everyone."
     },
     {
-      name: "David Chen",
+      name: "insert name",
       image: notFoundImage,
       languages: ["Mandarin", "English"],
       experience: "Junior Student",
       description: "Hey there! I'm a junior passionate about sharing Chinese language and culture. As a club member, I love helping other students discover the beauty of Mandarin through peer-to-peer learning."
     },
     {
-      name: "Sarah Thompson",
+      name: "insert name",
       image: notFoundImage,
       languages: ["French", "English"],
       experience: "Senior Student",
